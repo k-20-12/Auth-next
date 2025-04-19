@@ -18,3 +18,4 @@ This is a full-stack web application built with **Next.js** that includes **user
 - **Database**: MongoDB 
 - **Styling**: Tailwind CSS
 
+LIVE PROJECT - https://auth-next-o9q2.vercel.app/
